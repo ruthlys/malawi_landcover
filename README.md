@@ -2,7 +2,7 @@
 
 This repo shows how to use geojson and metadate data for spatial data visualization using plotlyexpress and geopandas in Jupyter Notebook.
 
-Data were obtained from the ArcGIS Hub and provide details of the various types of landcover in Malawi as of 2016.
+Data were obtained from the ArcGIS Hub and provide details of the various types of landcover in Malawi as of 2010.
 
 ![](pie_landcover.png)
 ![](map_hectare.png)
